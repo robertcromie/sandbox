@@ -1,0 +1,1499 @@
+{
+    "episodes":
+    [
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0013179a-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001317a9-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348187",
+            "title": "Late Date",
+            "description": "The perfect musical end to the day with Cathal Murray.",
+            "seriesId": "2250",
+            "startTime": "2022-09-01T23:00:00+01:00",
+            "endTime": "2022-09-02T02:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "03:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00143ae4-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00143ae5-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348186",
+            "title": "The Classic Rock Hour with John Kenny",
+            "description": "John Kenny brings you an hour of classic rock tunes including a featured album and your requests on 51551 or email john.kenny@rte.ie",
+            "seriesId": "30007376",
+            "startTime": "2022-09-01T22:00:00+01:00",
+            "endTime": "2022-09-01T23:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001700cf-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001700ce-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348185",
+            "title": "The John Creedon Show",
+            "description": "A mix of contemporary, Irish and international tracks to take you on a melodic journey into the evening.",
+            "seriesId": "2521",
+            "startTime": "2022-09-01T20:00:00+01:00",
+            "endTime": "2022-09-01T22:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479b-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479e-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348184",
+            "title": "Arena",
+            "description": "Daily arts and popular culture show.",
+            "seriesId": "1485",
+            "startTime": "2022-09-01T19:00:00+01:00",
+            "endTime": "2022-09-01T20:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d0e-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d10-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348183",
+            "title": "Drivetime",
+            "description": "Sarah McInerney and Cormac Ó hEadhra bring you all the latest news and stories of the day from around the country and beyond.",
+            "seriesId": "505",
+            "startTime": "2022-09-01T16:30:00+01:00",
+            "endTime": "2022-09-01T19:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "02:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00133892-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00133894-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348182",
+            "title": "The Ray D'Arcy Show",
+            "description": "It's all about life.",
+            "seriesId": "30003214",
+            "startTime": "2022-09-01T15:00:00+01:00",
+            "endTime": "2022-09-01T16:30:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b4-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348181",
+            "title": "Liveline",
+            "description": "Discussion and debate with Joe Duffy.",
+            "seriesId": "2290",
+            "startTime": "2022-09-01T13:45:00+01:00",
+            "endTime": "2022-09-01T15:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:15:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fdc-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fde-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348180",
+            "title": "News At One",
+            "description": "News, sport, business and interviews presented by Bryan Dobson.",
+            "seriesId": "14",
+            "startTime": "2022-09-01T13:00:00+01:00",
+            "endTime": "2022-09-01T13:45:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "00:45:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001509ee-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cc3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348179",
+            "title": "The Ronan Collins Show",
+            "description": "Listeners' choices, old favourites, plus the best of the new as well as many musical surprises.",
+            "seriesId": "2291",
+            "startTime": "2022-09-01T12:00:00+01:00",
+            "endTime": "2022-09-01T13:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001314b3-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/0013c3a4-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348178",
+            "title": "Today with Claire Byrne",
+            "description": "Mid-morning show with Philip Boucher-Hayes featuring stories of the day, sharp analysis and features.",
+            "seriesId": "30007589",
+            "startTime": "2022-09-01T10:00:00+01:00",
+            "endTime": "2022-09-01T12:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d98-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d97-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348177",
+            "title": "The Ryan Tubridy Show",
+            "description": "The Ryan Tubridy Show is a fast paced entertaining and informative sixty minutes of morning radio.",
+            "seriesId": "30003495",
+            "startTime": "2022-09-01T09:00:00+01:00",
+            "endTime": "2022-09-01T10:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af2-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348176",
+            "title": "Morning Ireland",
+            "description": "Live news, sports, weather and traffic, presented by Rachael English, Gavin Jennings Audrey Carville, Aine Lawlor and Mary Wilson.",
+            "seriesId": "5",
+            "startTime": "2022-09-01T07:00:00+01:00",
+            "endTime": "2022-09-01T09:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cd9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cda-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348175",
+            "title": "Rising Time",
+            "description": "Mornings with melody, featuring classic cuts and the best of new music presented by Shay Byrne.",
+            "seriesId": "2292",
+            "startTime": "2022-09-01T05:30:00+01:00",
+            "endTime": "2022-09-01T07:00:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "01:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/000c1b89-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d23-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348174",
+            "title": "RTÉ Gold on RTÉ Radio 1",
+            "description": "The greatest hits of all time.",
+            "seriesId": "30005004",
+            "startTime": "2022-09-01T02:00:00+01:00",
+            "endTime": "2022-09-01T05:30:00+01:00",
+            "programmeDate": "2022-09-01",
+            "duration": "03:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0013179a-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001317a9-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348173",
+            "title": "Late Date",
+            "description": "The perfect musical end to the day with Cathal Murray.",
+            "seriesId": "2250",
+            "startTime": "2022-08-31T23:00:00+01:00",
+            "endTime": "2022-09-01T02:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "03:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c05f5-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c05f6-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348172",
+            "title": "Caravan Radio",
+            "description": "As we say farewell to summer this week's Caravan Radio with Oisín Leech parks up in Dunmore East Co. Waterford to celebrate harvest time and the coming of Autumn.",
+            "seriesId": "30007956",
+            "startTime": "2022-08-31T22:00:00+01:00",
+            "endTime": "2022-08-31T23:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001700cf-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001700ce-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348171",
+            "title": "The John Creedon Show",
+            "description": "A mix of contemporary, Irish and international tracks to take you on a melodic journey into the evening.",
+            "seriesId": "2521",
+            "startTime": "2022-08-31T20:00:00+01:00",
+            "endTime": "2022-08-31T22:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479b-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479e-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348170",
+            "title": "Arena",
+            "description": "Daily arts and popular culture show.",
+            "seriesId": "1485",
+            "startTime": "2022-08-31T19:00:00+01:00",
+            "endTime": "2022-08-31T20:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d0e-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d10-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348169",
+            "title": "Drivetime",
+            "description": "Sarah McInerney and Cormac Ó hEadhra bring you all the latest news and stories of the day from around the country and beyond.",
+            "seriesId": "505",
+            "startTime": "2022-08-31T16:30:00+01:00",
+            "endTime": "2022-08-31T19:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "02:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00133892-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00133894-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348168",
+            "title": "The Ray D'Arcy Show",
+            "description": "It's all about life.",
+            "seriesId": "30003214",
+            "startTime": "2022-08-31T15:00:00+01:00",
+            "endTime": "2022-08-31T16:30:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b4-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348167",
+            "title": "Liveline",
+            "description": "Discussion and debate with Joe Duffy.",
+            "seriesId": "2290",
+            "startTime": "2022-08-31T13:45:00+01:00",
+            "endTime": "2022-08-31T15:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:15:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fdc-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fde-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348166",
+            "title": "News At One",
+            "description": "News, sport, business and interviews presented by Bryan Dobson.",
+            "seriesId": "14",
+            "startTime": "2022-08-31T13:00:00+01:00",
+            "endTime": "2022-08-31T13:45:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "00:45:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001509ee-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cc3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348165",
+            "title": "The Ronan Collins Show",
+            "description": "Listeners' choices, old favourites, plus the best of the new as well as many musical surprises.",
+            "seriesId": "2291",
+            "startTime": "2022-08-31T12:00:00+01:00",
+            "endTime": "2022-08-31T13:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150ab9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150abd-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348164",
+            "title": "Today with Claire Byrne",
+            "description": "Mid-morning show with Claire Byrne featuring stories of the day, sharp analysis and features.",
+            "seriesId": "30007589",
+            "startTime": "2022-08-31T10:00:00+01:00",
+            "endTime": "2022-08-31T12:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d98-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d97-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348163",
+            "title": "The Ryan Tubridy Show",
+            "description": "The Ryan Tubridy Show is a fast paced entertaining and informative sixty minutes of morning radio.",
+            "seriesId": "30003495",
+            "startTime": "2022-08-31T09:00:00+01:00",
+            "endTime": "2022-08-31T10:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af2-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348162",
+            "title": "Morning Ireland",
+            "description": "Live news, sports, weather and traffic, presented by Rachael English, Gavin Jennings Audrey Carville, Aine Lawlor and Mary Wilson.",
+            "seriesId": "5",
+            "startTime": "2022-08-31T07:00:00+01:00",
+            "endTime": "2022-08-31T09:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cd9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cda-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274348161",
+            "title": "Rising Time",
+            "description": "Mornings with melody, featuring classic cuts and the best of new music presented by Shay Byrne.",
+            "seriesId": "2292",
+            "startTime": "2022-08-31T05:30:00+01:00",
+            "endTime": "2022-08-31T07:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/000c1b89-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d23-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301952",
+            "title": "RTÉ Gold on RTÉ Radio 1",
+            "description": "The greatest hits of all time.",
+            "seriesId": "30005004",
+            "startTime": "2022-08-31T03:00:00+01:00",
+            "endTime": "2022-08-31T05:30:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "02:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001be218-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001be219-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301951",
+            "title": "Playback Daily",
+            "description": "Featuring some of the most ear-catching moments you might have missed from the day on RTE Radio 1, filleted and ready for bingeing.",
+            "seriesId": "30007142",
+            "startTime": "2022-08-31T02:00:00+01:00",
+            "endTime": "2022-08-31T03:00:00+01:00",
+            "programmeDate": "2022-08-31",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0013179a-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001317a9-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301950",
+            "title": "Late Date",
+            "description": "The perfect musical end to the day with Cathal Murray.",
+            "seriesId": "2250",
+            "startTime": "2022-08-30T23:00:00+01:00",
+            "endTime": "2022-08-31T02:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "03:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c29b1-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c29b2-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301949",
+            "title": "Sure 'Twas Better",
+            "description": "Will is joined by Pauline McLynn, Jules Coll and Emer McLysaght. The three wise women listen to long buried archive to discover if it was better... or worse ...back in the day..",
+            "seriesId": "30004374",
+            "startTime": "2022-08-30T22:00:00+01:00",
+            "endTime": "2022-08-30T23:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001700cf-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001700ce-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301948",
+            "title": "The John Creedon Show",
+            "description": "A mix of contemporary, Irish and international tracks to take you on a melodic journey into the evening.",
+            "seriesId": "2521",
+            "startTime": "2022-08-30T20:00:00+01:00",
+            "endTime": "2022-08-30T22:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "02:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479b-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479e-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301947",
+            "title": "Arena",
+            "description": "Daily arts and popular culture show.",
+            "seriesId": "1485",
+            "startTime": "2022-08-30T19:00:00+01:00",
+            "endTime": "2022-08-30T20:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:00:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d0e-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d10-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301946",
+            "title": "Drivetime",
+            "description": "Sarah McInerney and Cormac Ó hEadhra bring you all the latest news and stories of the day from around the country and beyond.",
+            "seriesId": "505",
+            "startTime": "2022-08-30T16:30:00+01:00",
+            "endTime": "2022-08-30T19:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "02:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00133892-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00133894-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301945",
+            "title": "The Ray D'Arcy Show",
+            "description": "It's all about life.",
+            "seriesId": "30003214",
+            "startTime": "2022-08-30T15:00:00+01:00",
+            "endTime": "2022-08-30T16:30:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:30:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b4-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "274301944",
+            "title": "Liveline",
+            "description": "Discussion and debate with Joe Duffy.",
+            "seriesId": "2290",
+            "startTime": "2022-08-30T13:45:00+01:00",
+            "endTime": "2022-08-30T15:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:15:00"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fdc-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fde-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442661",
+            "title": "News At One",
+            "description": "News, sport, business and interviews presented by Bryan Dobson.",
+            "seriesId": "14",
+            "startTime": "2022-08-30T13:00:00+01:00",
+            "endTime": "2022-08-30T13:45:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "00:45:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442661/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001509ee-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cc3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442660",
+            "title": "The Ronan Collins Show",
+            "description": "Listeners' choices, old favourites, plus the best of the new as well as many musical surprises.",
+            "seriesId": "2291",
+            "startTime": "2022-08-30T12:00:00+01:00",
+            "endTime": "2022-08-30T13:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442660/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150ab9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150abd-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442659",
+            "title": "Today with Claire Byrne",
+            "description": "Mid-morning show with Claire Byrne featuring stories of the day, sharp analysis and features.",
+            "seriesId": "30007589",
+            "startTime": "2022-08-30T10:00:00+01:00",
+            "endTime": "2022-08-30T12:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "02:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442659/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d98-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d97-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442658",
+            "title": "The Ryan Tubridy Show",
+            "description": "The Ryan Tubridy Show is a fast paced entertaining and informative sixty minutes of morning radio.",
+            "seriesId": "30003495",
+            "startTime": "2022-08-30T09:00:00+01:00",
+            "endTime": "2022-08-30T10:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442658/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af2-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442657",
+            "title": "Morning Ireland",
+            "description": "Live news, sports, weather and traffic, presented by Rachael English, Gavin Jennings Audrey Carville, Aine Lawlor and Mary Wilson.",
+            "seriesId": "5",
+            "startTime": "2022-08-30T07:00:00+01:00",
+            "endTime": "2022-08-30T09:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "02:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442657/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cd9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cda-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442656",
+            "title": "Rising Time",
+            "description": "Mornings with melody, featuring classic cuts and the best of new music presented by Shay Byrne.",
+            "seriesId": "2292",
+            "startTime": "2022-08-30T05:30:00+01:00",
+            "endTime": "2022-08-30T07:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442656/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/000c1b89-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d23-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442655",
+            "title": "RTÉ Gold on RTÉ Radio 1",
+            "description": "The greatest hits of all time.",
+            "seriesId": "30005004",
+            "startTime": "2022-08-30T03:00:00+01:00",
+            "endTime": "2022-08-30T05:30:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "02:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442655/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001be218-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001be219-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442654",
+            "title": "Playback Daily",
+            "description": "Featuring some of the most ear-catching moments you might have missed from the day on RTE Radio 1, filleted and ready for bingeing.",
+            "seriesId": "30007142",
+            "startTime": "2022-08-30T02:00:00+01:00",
+            "endTime": "2022-08-30T03:00:00+01:00",
+            "programmeDate": "2022-08-30",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442654/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0013179a-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001317a9-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442653",
+            "title": "Late Date",
+            "description": "The perfect musical end to the day with Cathal Murray.",
+            "seriesId": "2250",
+            "startTime": "2022-08-29T23:00:00+01:00",
+            "endTime": "2022-08-30T02:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "03:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442653/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d37-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d3a-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442344",
+            "title": "Mooney Goes Wild",
+            "description": "Derek Mooney and guests explore the natural world in all its forms.",
+            "seriesId": "2293",
+            "startTime": "2022-08-29T22:00:00+01:00",
+            "endTime": "2022-08-29T23:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442344/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001700cf-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001700ce-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442343",
+            "title": "The John Creedon Show",
+            "description": "A mix of contemporary, Irish and international tracks to take you on a melodic journey into the evening.",
+            "seriesId": "2521",
+            "startTime": "2022-08-29T20:00:00+01:00",
+            "endTime": "2022-08-29T22:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "02:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442343/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479b-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/0014479e-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442342",
+            "title": "Arena",
+            "description": "Daily arts and popular culture show.",
+            "seriesId": "1485",
+            "startTime": "2022-08-29T19:00:00+01:00",
+            "endTime": "2022-08-29T20:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442342/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d0e-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001c3d10-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442341",
+            "title": "Drivetime",
+            "description": "Sarah McInerney and Cormac Ó hEadhra bring you all the latest news and stories of the day from around the country and beyond.",
+            "seriesId": "505",
+            "startTime": "2022-08-29T16:30:00+01:00",
+            "endTime": "2022-08-29T19:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "02:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442341/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00133892-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00133894-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442340",
+            "title": "The Ray D'Arcy Show",
+            "description": "It's all about life.",
+            "seriesId": "30003214",
+            "startTime": "2022-08-29T15:00:00+01:00",
+            "endTime": "2022-08-29T16:30:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442340/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b4-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/001372b3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442339",
+            "title": "Liveline",
+            "description": "Discussion and debate with Joe Duffy.",
+            "seriesId": "2290",
+            "startTime": "2022-08-29T13:45:00+01:00",
+            "endTime": "2022-08-29T15:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:15:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442339/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fdc-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155fde-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442338",
+            "title": "News At One",
+            "description": "News, sport, business and interviews presented by Bryan Dobson.",
+            "seriesId": "14",
+            "startTime": "2022-08-29T13:00:00+01:00",
+            "endTime": "2022-08-29T13:45:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "00:45:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442338/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/001509ee-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cc3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442337",
+            "title": "The Ronan Collins Show",
+            "description": "Listeners' choices, old favourites, plus the best of the new as well as many musical surprises.",
+            "seriesId": "2291",
+            "startTime": "2022-08-29T12:00:00+01:00",
+            "endTime": "2022-08-29T13:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442337/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150ab9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150abd-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442336",
+            "title": "Today with Claire Byrne",
+            "description": "Mid-morning show with Claire Byrne featuring stories of the day, sharp analysis and features.",
+            "seriesId": "30007589",
+            "startTime": "2022-08-29T10:00:00+01:00",
+            "endTime": "2022-08-29T12:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "02:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442336/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d98-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00156d97-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442335",
+            "title": "The Ryan Tubridy Show",
+            "description": "The Ryan Tubridy Show is a fast paced entertaining and informative sixty minutes of morning radio.",
+            "seriesId": "30003495",
+            "startTime": "2022-08-29T09:00:00+01:00",
+            "endTime": "2022-08-29T10:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442335/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af2-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00155af3-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442334",
+            "title": "Morning Ireland",
+            "description": "Live news, sports, weather and traffic, presented by Rachael English, Gavin Jennings Audrey Carville, Aine Lawlor and Mary Wilson.",
+            "seriesId": "5",
+            "startTime": "2022-08-29T07:00:00+01:00",
+            "endTime": "2022-08-29T09:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "02:00:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442334/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cd9-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150cda-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442333",
+            "title": "Rising Time",
+            "description": "Mornings with melody, featuring classic cuts and the best of new music presented by Shay Byrne.",
+            "seriesId": "2292",
+            "startTime": "2022-08-29T05:30:00+01:00",
+            "endTime": "2022-08-29T07:00:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "01:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442333/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        },
+        {
+            "images":
+            [
+                {
+                    "width": 1280,
+                    "height": 800,
+                    "url": "https://img.rasset.ie/img-epiclive/000c1b89-x1280-y800.jpg",
+                    "type": "widescreen"
+                },
+                {
+                    "width": 1280,
+                    "height": 1280,
+                    "url": "https://img.rasset.ie/img-epiclive/00150d23-x1280-y1280.jpg",
+                    "type": "square"
+                }
+            ],
+            "id": "11442332",
+            "title": "RTÉ Gold on RTÉ Radio 1",
+            "description": "The greatest hits of all time.",
+            "seriesId": "30005004",
+            "startTime": "2022-08-29T02:00:00+01:00",
+            "endTime": "2022-08-29T05:30:00+01:00",
+            "programmeDate": "2022-08-29",
+            "duration": "03:30:00",
+            "catchupAudioUrl": "https://www.rte.ie/rteavgen/radio-stream/11442332/",
+            "catchupAudioMimeType": "application/x-mpegURL"
+        }
+    ]
+}
